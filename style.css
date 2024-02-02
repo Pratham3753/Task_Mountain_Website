@@ -257,7 +257,7 @@ html {
 }
 
 .tab-bg1 {
-  background: url('/images/tab1.png') no-repeat;
+  background: url('images/tab1.png') no-repeat;
   background-size: cover;
   height: 80%;
   position: relative;
@@ -522,7 +522,7 @@ html {
   }
 
   .accordion-bg1 {
-    background: url('/images/tab1.png') no-repeat;
+    background: url('images/tab1.png') no-repeat;
     background-size: cover;
     height: 80%;
     background-position: bottom;
